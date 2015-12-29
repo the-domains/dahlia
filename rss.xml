@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DAHLIA+]]></title>
         <description><![CDATA[DAHLIA+]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dahlia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 06:43:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 09:29:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dahlia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DAHLIA+ Clients]]></title>
+            <description><![CDATA[<article><h1>DAHLIA+ Clients</h1><p>DAHLIA+ Clients Include:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e99c04d59fce7da947f04eddc680711156528b3.png"></article>]]></description>
+            <link>https://thegrid.ai/dahlia/dahlia-clients/index.html</link>
+            <guid isPermaLink="false">a6229b17-e45d-43d0-9947-9bf7e6419ed1</guid>
+            <pubDate>Tue, 29 Dec 2015 09:29:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About the DAHLIA+ Team]]></title>
-            <description><![CDATA[<h1>About the DAHLIA+ Team</h1>]]></description>
-            <link>undefinedabout-the-dahlia-team/index.html</link>
+            <description><![CDATA[<article><h1>About the DAHLIA+ Team</h1><p>Dahlia defines herself as a supplanner. With an omg-attitude about tech and practical solutions, and more than a decade of experience in the meetings industry, Dahlia has held roles on the planner side as well as on the supplier side. Prior to launching DAHLIA+, she launched The Meeting Pool, a leading source for tech news and solutions for busy event professionals, and was VP of Marketing at onPeak. Dahlia has also worked at Passkey and with many major hotel affiliates such as Starwood Hotels & Resorts, IHG (InterContinental Hotel Group), and Marriott Hotels & Resorts. Among her many specialties are international business and global marketing, having spent professional stints in Egypt and Germany as well as many US cities.</p></article>]]></description>
+            <link>https://thegrid.ai/dahlia/about-the-dahlia-team/index.html</link>
             <guid isPermaLink="false">94eaa88b-09bf-4d31-9af5-93a042aadabe</guid>
             <pubDate>Tue, 29 Dec 2015 06:43:27 GMT</pubDate>
         </item>

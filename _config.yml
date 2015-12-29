@@ -2,6 +2,7 @@ name: DAHLIA+
 favicon: null
 layout_spectrum: 0.2456
 typography_spectrum: 0.52066
+title: DAHLIA+
 cta:
   domain: null
   bucket: null

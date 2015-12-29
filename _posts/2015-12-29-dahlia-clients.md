@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-29T07:38:06.270Z'
-dateModified: '2015-12-29T07:37:57.485Z'
+datePublished: '2015-12-29T09:29:44.689Z'
+dateModified: '2015-12-29T09:29:40.887Z'
 title: DAHLIA+ Clients
 author: []
+sourcePath: _posts/2015-12-29-dahlia-clients.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-29-dahlia-clients.md
-published: true
 url: dahlia-clients/index.html
-_type: WebPage
+_type: Article
 
 ---
 DAHLIA+ Clients Include:

@@ -7,14 +7,14 @@ keywords: []
 description: >-
   My top 13 Favorite 'Wink-worthy' tweets from the king of @unmarketing himself
   at #MPITechcon
-datePublished: '2016-06-17T13:33:29.585Z'
-dateModified: '2016-06-17T13:32:28.325Z'
+datePublished: '2016-06-17T13:35:25.578Z'
+dateModified: '2016-06-17T13:34:15.338Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-17-my-top-13-favorite-wink-worthy-tweets-from-the-king-of-un.md
+starred: true
 url: my-top-13-favorite-wink-worthy-tweets-from-the-king-of-un/index.html
 _type: Article
 
